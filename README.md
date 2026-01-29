@@ -1,2 +1,0 @@
-# organoidRecognizatrion
-Sibet  organoidRecognizatrion
